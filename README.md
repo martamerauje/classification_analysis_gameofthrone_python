@@ -1,1 +1,1 @@
-# classification_analysis_gameofthrone_python
+This task aims to build a predictive model on a binary response variable (1=is_alive, 0=dead ). This task encompasses feature engineering, model preparation, variable selection, and model development. The model used for this task are the Logistic Regression, K-Nearest Neighbors Classification (KNN), and Classification Trees.
